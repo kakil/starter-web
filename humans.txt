@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kitwana Akil kitwana@akildev.com @kakil
 
 # THANKS
 
